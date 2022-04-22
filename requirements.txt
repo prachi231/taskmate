@@ -37,8 +37,10 @@ cymem==2.0.6
 dask==2021.11.2
 decorator==5.1.1
 distlib==0.3.4
+dj-database-url==0.5.0
 Django==4.0.3
 django-environ==0.8.1
+django-heroku==0.3.1
 dm-tree==0.1.6
 dnspython==1.16.0
 docopt==0.6.2
@@ -60,6 +62,7 @@ google-auth-oauthlib==0.4.6
 google-pasta==0.2.0
 greenlet==1.1.2
 grpcio==1.44.0
+gunicorn==20.1.0
 h5py==3.1.0
 httptools==0.4.0
 huggingface-hub==0.4.0
@@ -102,10 +105,10 @@ platformdirs==2.5.1
 preshed==3.0.6
 prompt-toolkit==2.0.10
 protobuf==3.19.4
+psycopg2==2.9.3
 psycopg2-binary==2.9.3
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
-PyAudio @ file:///C:/Users/Sachin%20Patil/pipwin/PyAudio-0.2.11-cp38-cp38-win_amd64.whl
 pycparser==2.21
 pydantic==1.8.2
 pydot==1.4.2
@@ -199,6 +202,7 @@ wcwidth==0.2.5
 webexteamssdk==1.6
 websockets==10.2
 Werkzeug==2.0.3
+whitenoise==6.0.0
 wrapt==1.12.1
 wtf==0.1
 WTForms==3.0.1
